@@ -2,5 +2,5 @@ numpy
 scipy
 pandas
 matplotlib
-seaborn
-sklearn
+#seaborn
+#sklearn
